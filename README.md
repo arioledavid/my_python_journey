@@ -1,14 +1,14 @@
 . Python - Beginner to Advanced Journey
 
-##Description
+## Description
 
 In this project, we go through different projects in python in different levels:
 
-#Beginner
+## Beginner
 
 
 
-#Intermediate 
+## Intermediate 
 
 
 #Advanced
@@ -18,4 +18,4 @@ In this project, we go through different projects in python in different levels:
 
 Files | Description
 ----- | ------------
-[Beginner_level](./Beginner_level/) | Folder containing all
+[Beginner_level](./Beginner_level/) | Folder containing all beginner level project
