@@ -1,17 +1,17 @@
-. Python - Beginner to Advanced Journey
+# Python - Beginner to Advanced Journey
 
 ## Description
 
 In this project, we go through different projects in python in different levels:
 
-## Beginner
+### Beginner
 
 
 
-## Intermediate 
+### Intermediate 
 
 
-#Advanced
+### Advanced
 
 
 ## Table of Contents
