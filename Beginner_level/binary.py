@@ -28,7 +28,6 @@ class Binary:
         binary = list(reversed(binary))
         return binary
 
-
     def count(self, binary):
         count = 0
         temp = 0
